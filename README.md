@@ -5,25 +5,22 @@ This repository provides a practical introduction to the fundamental concepts of
 **What You'll Learn:**
 
 * **Core Neural Network Architecture:** Explore the basic building blocks of neural networks, including layers, neurons, activation functions, and loss functions.
-* **Implementation in Python:** Get hands-on experience by building simple neural networks using popular Python libraries (**specify libraries used, e.g., NumPy, NNFS**).  
+* **Implementation in Python:** Get hands-on experience by building simple neural networks using popular Python libraries (**NumPy, NNFS**).  
 * **Backpropagation Fundamentals:** Grasp the backpropagation algorithm, which is crucial for training neural networks to learn from data.
-* **Practical Applications:** See neural networks in action with examples demonstrating their capabilities in tasks like classification or regression (**mention specific examples you cover, if any**).
+* **Practical Applications:** See neural networks in action with examples demonstrating their capabilities in tasks like classification or regression.
 
 **Getting Started:**
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://<your_repository_url>
+   https://github.com/hussainmiraqib/NeuralNetworkBasics.git
    ```
-   Replace `<your_repository_url>` with the actual URL of your Git repository.
 
 2. **Install Dependencies:**
-   Ensure you have the required Python libraries installed (**list specific libraries or provide installation instructions**).
+   Ensure you have the required Python libraries installed..
 
 3. **Explore the Code:**
    The code in this repository is organized into clear modules/files. Feel free to start by looking at the:
-     * **`main.py`** file (or similar) for a basic demonstration of a neural network.
-     * **Other relevant Python files** explaining specific components or implementations.
 
 **Additional Resources:**
 
